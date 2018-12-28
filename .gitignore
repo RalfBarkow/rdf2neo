@@ -3,3 +3,7 @@
 target/
 .classpath
 .DS_Store
+.idea
+neo4j-utils.iml
+rdf2neo (1).iml
+rdf2neo-cli.iml
